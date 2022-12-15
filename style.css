@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Nerko+One&family=Pacifico&family=Roboto:wght@100;300&family=Rubik+Microbe&family=Secular+One&family=Zen+Dots&display=swap');
+
+body{
+    box-sizing: border-box;
+    font-size: 12px;
+    color: black;
+}
+p{
+    font-family: 'Rubik Microbe', cursive;
+    color:white;
+}
+.images-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container{
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: center;
+    font-size: 1.45em;
+    padding: 24px 36px;
+    margin: 1em;
+    border-radius: 15px;
+    
+}
